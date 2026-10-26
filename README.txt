@@ -1,4 +1,4 @@
-KAVALI EV CHARGING INTELLIGENCE — UPGRADE V3
+KAVALI EV CHARGING INTELLIGENCE — UPGRADE V2
 
 Files:
 - app.py: upgraded Streamlit application
