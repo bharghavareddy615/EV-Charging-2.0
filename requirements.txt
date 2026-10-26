@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+scikit-learn>=1.4
+scipy>=1.12
+xgboost>=2.0
+pulp>=2.8
+# Optional LSTM model; install if your Python/platform supports TensorFlow:
+# tensorflow>=2.16
